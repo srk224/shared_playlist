@@ -1,5 +1,5 @@
 require('dotenv').config()
-var request = require('request'); // "Request" library
+var request = require('request'); // "Request" library from spotify
 
 var client_id = 'CLIENT_ID'; // Your client id
 var client_secret = 'CLIENT_SECRET'; // Your secret
