@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(251, 213, 167);
+}
+
+.App{
+    align-items: center;
+    text-align: center;
+}
+
+.shared_playlist{
+        background-color: rgb(62, 171, 62);
+        color: white;
+        padding: 1%;
+        border-radius: 5px;
+        border-color: rgb(62, 171, 62);
+      }
