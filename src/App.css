@@ -14,4 +14,5 @@ body
         padding: 1%;
         border-radius: 5px;
         border-color: rgb(62, 171, 62);
+        align-items: center;
       }
